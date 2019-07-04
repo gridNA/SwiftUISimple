@@ -1,0 +1,30 @@
+[
+    {
+        "id": 0,
+        "name": "Aloe",
+        "shortDescription": "Aloe vera - non toxic",
+        "toxicity": "non toxic",
+        "imageURL": "https://www.deutsches-aloe-vera-zentrum.de/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/a/l/aloe_vera_2.jpg"
+    },
+    {
+        "id": 1,
+        "name": "Aloe",
+        "shortDescription": "Aloe vera - non toxic",
+        "toxicity": "non toxic",
+        "imageURL": "https://www.deutsches-aloe-vera-zentrum.de/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/a/l/aloe_vera_2.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Aloe",
+        "shortDescription": "Aloe vera - non toxic",
+        "toxicity": "toxic",
+        "imageURL": "https://www.deutsches-aloe-vera-zentrum.de/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/a/l/aloe_vera_2.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Aloe",
+        "shortDescription": "Aloe vera - non toxic",
+        "toxicity": "toxic roots",
+        "imageURL": "https://www.deutsches-aloe-vera-zentrum.de/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/a/l/aloe_vera_2.jpg"
+    }
+]
